@@ -1,0 +1,24 @@
+.bio_section {
+    width: 100%;
+    /* height: 100vh; */
+    padding: 2rem;
+
+    position: relative;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+
+    background-color: var(--secondary-color);
+}
+
+.heading::after {
+    content: '';
+    height: 2px;
+    width: 300px;
+
+    position: absolute;
+    bottom: 50%
+}

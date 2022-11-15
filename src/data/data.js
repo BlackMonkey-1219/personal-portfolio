@@ -1,4 +1,4 @@
-import { project_1, project_2, project_3 } from "../assets";
+import { project_1, project_2, project_3, project_4 } from "../assets";
 
 const bio =
   "Hi! I'm Allen (not my real name). I'm a self-taught developer who codes for fun and profession. I've been into programming since my first computer. That is since I was 14 years old. I'm so passionate about programming and computers that I tend to spend days automating a task that simply takes a few minutes to complete manually.\n\nI'm currently using JavaScript, TypeScript, ReactJS, NextJS, and ExpressJS for web development. I've built from simple static web pages to a fully functional pc game search engine that uses data I scraped from steam using my python scripts.\n\nNow I'm developing a small social media application.\n\nI can also develop desktop applications using ElectronJS.\n\nI'm constantly learning new things. Currently, I'm learning C++ and Flutter.\n\nI'm excited to know what kind of project you have for me.";

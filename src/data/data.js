@@ -22,6 +22,12 @@ const projects = [
     desc: "Simple landing page with ReactJS.",
     link: "https://portfolio-landingpage-01.netlify.app/",
   },
+  {
+    title: "Blog",
+    image: project_4,
+    desc: "Simple blog developed with ReactJS and NextJS.",
+    link: "https://youtu.be/CPFaFNNymDM",
+  },
 ];
 
 const skills = [

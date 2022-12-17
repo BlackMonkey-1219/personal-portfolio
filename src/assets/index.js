@@ -6,8 +6,10 @@ import project_2 from "./screencapture-portfolio-saas-01-netlify-app-2022-11-10-
 import project_3 from "./screencapture-portfolio-landingpage-01-netlify-app-2022-11-10-17_28_25.png";
 import project_4 from "./screencapture-localhost-3000-profile-2022-11-15-12_33_51.png";
 import project_5 from "./Portfolio-Project-Temp.png";
+import project_6 from "./Screenshot from 2022-12-17 10-31-19.png"
 
-export {
+export
+{
   logo,
   logo_wide,
   project_image,
@@ -16,4 +18,5 @@ export {
   project_3,
   project_4,
   project_5,
+  project_6
 };

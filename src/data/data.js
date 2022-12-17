@@ -1,9 +1,11 @@
-import {
+import
+{
   project_1,
   project_2,
   project_3,
   project_4,
   project_5,
+  project_6
 } from "../assets";
 
 const bio =
@@ -40,6 +42,13 @@ const projects = [
     desc: "Resume Bulder Application with ReactJS.",
     link: "https://youtu.be/mjyeNj06Z4c",
   },
+  {
+    title: "Real Estate Listing Viewer",
+    image: project_6,
+    desc: "Real Estate Property Lister With Interactive Map and Bookmarking Capability.",
+    link: "https://youtu.be/ABAPC6gsKw4"
+
+  }
 ];
 
 const skills = [
@@ -88,6 +97,17 @@ const skills = [
       "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1024px-MySQL_logo.svg.png",
     title: "MySQL",
   },
+  {
+    image: "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F320px-React-icon.svg.png&sp=1671253569Td6e037b1e64056980e69e136f111ae813d1242e5dde1812d85eb01aac77c6d52",
+    title: "React Native"
+  },
+  {
+    image: "https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg",
+    title: "Tailwind Css"
+  }, {
+    image: "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fba%2FStripe_Logo%252C_revised_2016.svg%2F1280px-Stripe_Logo%252C_revised_2016.svg.png&sp=1671253838Tfffe7aca5a0673e4ab1c18b7f40bb5e334690277b16b8bc0f53ec98334aedd61",
+    title: "Stripe API"
+  }
 ];
 
 export { bio, skills, projects };
